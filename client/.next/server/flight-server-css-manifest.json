@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "D:\\dari desktop\\proj\\react-leaflet\\client\\app\\layout.tsx": [
+      "D:\\dari desktop\\proj\\react-leaflet\\client\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "D:\\dari desktop\\proj\\react-leaflet\\client\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "D:\\dari desktop\\proj\\react-leaflet\\client\\app\\page": [
+      "D:\\dari desktop\\proj\\react-leaflet\\client\\app\\globals.css",
+      "D:\\dari desktop\\proj\\react-leaflet\\client\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
